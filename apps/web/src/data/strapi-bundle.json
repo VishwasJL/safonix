@@ -1,0 +1,2076 @@
+{
+  "siteSetting": {
+    "id": 1,
+    "documentId": "l2nrdmhysekzhij33sqkjmhi",
+    "siteName": "Safonix India",
+    "tagline": "Premium Electrical Products & Solutions",
+    "phone": "+91-9119333209",
+    "email": "contactus@safonixindia.com",
+    "officeHours": "Mon- Sat: 10:00 AM - 7:00 PM",
+    "facebookUrl": "https://www.facebook.com/",
+    "createdAt": "2026-11-10T07:41:58.048Z",
+    "updatedAt": "2026-11-12T06:58:13.231Z",
+    "publishedAt": "2026-11-12T06:58:13.216Z",
+    "locale": null,
+    "instagramUrl": "https://www.instagram.com/",
+    "xUrl": "https://x.com/",
+    "footerText": "Founded in 2016 and backed by industry experience dating back to 1998, the company focuses on delivering ISI- and ISO-certified electrical goods across India.",
+    "addresses": [
+      {
+        "id": 1,
+        "label": "Jaipur Office",
+        "text": "103/74, Meera Marg, Ward Number 43, Sector 101, Mansarovar, Jaipur, Rajasthan, 302020."
+      },
+      {
+        "id": 2,
+        "label": "Vasai Unit",
+        "text": "Gala No. 109/A, Blue Bell Industrial Estate, KT Industrial Park, Vasai (E), Palghar-401208."
+      }
+    ],
+    "stats": [
+      {
+        "id": 4,
+        "value": 25,
+        "suffix": "+",
+        "label": "Years in Industry.",
+        "unit": "years"
+      },
+      {
+        "id": 5,
+        "value": 500,
+        "suffix": "+",
+        "label": "Products Available.",
+        "unit": "Products"
+      },
+      {
+        "id": 6,
+        "value": 1,
+        "suffix": "L+",
+        "label": "Trusted Homes.",
+        "unit": "Households"
+      }
+    ]
+  },
+  "homePage": {
+    "id": 1,
+    "documentId": "kdvvdrxg97k8bizxhcakytux",
+    "categoriesTitle": "Explore Our **Categories**",
+    "categoriesSubtitle": "Switches, wires, lighting, protection and ventilation for modern living spaces.",
+    "ctaTitle": "Need help choosing the right **product?**",
+    "ctaText": "Our team is here to assist you with expert advice and personalized recommendations.",
+    "ctaLabel": "Get in Touch",
+    "createdAt": "2026-11-10T07:41:58.109Z",
+    "updatedAt": "2026-11-12T10:00:56.305Z",
+    "publishedAt": "2026-11-12T10:00:56.225Z",
+    "locale": null,
+    "categoriesEyebrow": "OUR PRODUCTS",
+    "promoTitle": "Smart Choice for **Modern Living**",
+    "promoSubtitle": "Stylish. Safe. Sustainable.",
+    "promoLabel": "Explore Products",
+    "whyEyebrow": "WHY CHOOSE SAFONIX",
+    "whyTitle": "Built for **Better**",
+    "bannerTitle": "Powering a Brighter Tomorrow",
+    "bannerText": "With Safonix’s innovative electrical solutions",
+    "bannerLabel": "Contact Us",
+    "ctaEyebrow": "NEED HELP?",
+    "spacesEyebrow": "Made for every space",
+    "spacesTitle": "Solutions for **Every Space**",
+    "spacesSubtitle": "From living rooms to workplaces and outdoor areas, explore Safonix electricals built for the way you use each space.",
+    "heroSlides": [
+      {
+        "id": 13,
+        "heading": "Delivering style, safety, and **innovation**",
+        "subheading": "Redefining design and functionality of electricals!",
+        "theme": "red",
+        "eyebrow": "INNOVATIVE ELECTRICAL SOLUTIONS",
+        "buttonLabel": "Explore Our Products",
+        "buttonUrl": "/products"
+      },
+      {
+        "id": 14,
+        "heading": "Connect with **Confidence.**",
+        "subheading": "High-performance wires, reliable sockets and switches for a safer, smarter home.",
+        "theme": "black",
+        "eyebrow": "PREMIUM ELECTRICAL SOLUTIONS",
+        "buttonLabel": "Shop Now",
+        "buttonUrl": "/products"
+      },
+      {
+        "id": 15,
+        "heading": "Brighter Homes. **Fresher Air.**",
+        "subheading": "LED lighting, fans and ventilation solutions for comfortable everyday living.",
+        "theme": "warm",
+        "eyebrow": "LIGHTING · FANS · VENTILATION",
+        "buttonLabel": "Explore Lighting",
+        "buttonUrl": "/products/led-lighting"
+      }
+    ],
+    "spaces": [
+      {
+        "id": 1,
+        "tag": "Homes",
+        "title": "Living Spaces",
+        "description": "Modular switches, LED lighting and fans for comfortable, stylish homes.",
+        "link": "/products/modular-switches"
+      },
+      {
+        "id": 2,
+        "tag": "Workplaces",
+        "title": "Offices & Shops",
+        "description": "LED downlights and tubelights for bright, well-lit workspaces.",
+        "link": "/products/led-lighting"
+      },
+      {
+        "id": 3,
+        "tag": "Protection",
+        "title": "Safe Power Distribution",
+        "description": "MCBs, isolators and distribution boards for reliable circuit protection.",
+        "link": "/products/mcbs-and-dbs"
+      },
+      {
+        "id": 4,
+        "tag": "Outdoors",
+        "title": "Outdoor & Industrial",
+        "description": "Robust flood lights and street lights for demanding outdoor areas.",
+        "link": "/products/flood-lights-and-street-lights"
+      }
+    ],
+    "highlights": [
+      {
+        "id": 7,
+        "title": "Certified Quality Assurance",
+        "description": "Premium quality guaranteed."
+      },
+      {
+        "id": 8,
+        "title": "Eco-Friendly Solutions",
+        "description": "Sustainable and secure."
+      },
+      {
+        "id": 9,
+        "title": "Support",
+        "description": "Mon- Sat: 10:00 AM - 7:00 PM"
+      },
+      {
+        "id": 10,
+        "title": "Seamless Warranty",
+        "description": "Hassle-free coverage."
+      }
+    ],
+    "whyItems": [
+      {
+        "id": 15,
+        "title": "Premium Quality",
+        "description": "High-quality products you can trust."
+      },
+      {
+        "id": 16,
+        "title": "Innovative Designs",
+        "description": "Modern solutions for modern spaces"
+      },
+      {
+        "id": 17,
+        "title": "Energy Saving",
+        "description": "Efficient products for a sustainable future"
+      },
+      {
+        "id": 18,
+        "title": "Dedicated Support",
+        "description": "Always here to help"
+      }
+    ],
+    "helpImage": {
+      "id": 2,
+      "url": "/uploads/hero_switch_25ee444833.png",
+      "alternativeText": "Safonix smart range modular switches",
+      "width": 461,
+      "height": 346
+    },
+    "helpImageBack": {
+      "id": 23,
+      "url": "/uploads/help_back_bulb_737dd2f795.png",
+      "alternativeText": "LED bulb",
+      "width": 600,
+      "height": 581
+    }
+  },
+  "aboutPage": {
+    "id": 1,
+    "documentId": "hl50gxiohxypmmh77ryomxtb",
+    "heading": "Redefining Quality & Excellence **Since 2016**",
+    "intro": "At **SAFONIX INDUSTRIES**, quality is our utmost priority. We are a name synonymous with excellence in the electrical products industry, delivering solutions that meet the highest industry standards. Our wide range of electrical goods caters to diverse needs and applications, ensuring safety, durability, and performance.\n\nFounded in 2016, **SAFONIX INDIA** emerged from a vision to redefine quality in the electrical industry, backed by our founder’s experience of serving this industry since 1998. Over the years, we have built a strong reputation for our commitment to excellence and customer satisfaction, becoming a trusted name for homes and businesses across India.",
+    "rangeTitle": "Our Extensive **Product Range**",
+    "rangeSubtitle": "Our products reflect a commitment to both functionality and design",
+    "certificationsTitle": "Quality Assurance **You Can Trust**",
+    "certificationsText": "This dedication ensures our products are not only safe and reliable but also energy-efficient, giving our customers peace of mind for all their electrical needs.",
+    "valuesTitle": "Our **Values**",
+    "createdAt": "2026-11-10T07:41:58.199Z",
+    "updatedAt": "2026-11-13T09:51:02.419Z",
+    "publishedAt": "2026-11-13T09:51:02.200Z",
+    "locale": null,
+    "certificationsClosing": "Discover Safonix – your partner in electrifying elegance and innovative security for every corner of your abode and workspace.",
+    "valuesIntro": "At Safonix India, we are committed to supporting local industries and promoting the ‘Make in India’ initiative.",
+    "certificationsSubtitle": "Delivering safety, reliability & efficiency",
+    "journeyEyebrow": "Our story",
+    "journeyTitle": "Our Journey & **Heritage**",
+    "journeySubtitle": "From a founder’s experience in the electrical industry to a trusted Indian electrical brand.",
+    "capabilitiesEyebrow": "Where we work",
+    "capabilitiesTitle": "Our Facilities & **Capabilities**",
+    "capabilitiesText": "Operating from Jaipur and Vasai, Safonix India supplies certified electrical products across five product ranges.",
+    "leadersEyebrow": "Our people",
+    "leadersTitle": "Leadership & **Governance**",
+    "leadersText": "Guided by industry experience dating back to 1998, with quality and customer care at the centre.",
+    "values": [
+      {
+        "id": 5,
+        "title": "Proudly made in India",
+        "description": "At Safonix India, we are committed to supporting local industries and promoting the 'Make in India' initiative. By choosing our products, you contribute to the growth of our nation and experience solutions designed to meet Indian standards of quality and reliability."
+      },
+      {
+        "id": 6,
+        "title": "Our promise",
+        "description": "With a proven legacy, we continue to innovate and provide electrical products that stand the test of time. Safonix is proud to be your trusted partner for quality-driven electrical solutions."
+      }
+    ],
+    "certifications": [
+      {
+        "id": 1,
+        "name": "ISI",
+        "fullName": "Indian Standard Institute"
+      },
+      {
+        "id": 2,
+        "name": "ISO",
+        "fullName": "International Organization for Standardization"
+      },
+      {
+        "id": 3,
+        "name": "BIS",
+        "fullName": "Bureau of Indian Standards"
+      },
+      {
+        "id": 4,
+        "name": "BEE",
+        "fullName": "Bureau of Energy Efficiency"
+      }
+    ],
+    "rangeItems": [
+      {
+        "id": 6,
+        "label": "LED Lighting",
+        "link": "/products/led-lighting"
+      },
+      {
+        "id": 7,
+        "label": "Ventilation & Fresh Air Fans",
+        "link": "/products/fresh-air-and-ventilation-fans"
+      },
+      {
+        "id": 8,
+        "label": "MCBs & Distribution Boards",
+        "link": "/products/mcbs-and-dbs"
+      },
+      {
+        "id": 9,
+        "label": "Modular Switches",
+        "link": "/products/modular-switches"
+      },
+      {
+        "id": 10,
+        "label": "Wires & Cables",
+        "link": "/products/wire-and-cables"
+      }
+    ],
+    "journey": [
+      {
+        "id": 4,
+        "year": "1998",
+        "title": "Industry Roots",
+        "description": "The founder began working in the Indian electrical goods sector, building nearly two decades of technical and market expertise prior to launching the brand.",
+        "current": false
+      },
+      {
+        "id": 5,
+        "year": "2016",
+        "title": "Company Foundation",
+        "description": "Safonix India was formally established to manufacture and supply certified electrical products for residential and commercial spaces.",
+        "current": false
+      },
+      {
+        "id": 6,
+        "year": "2018",
+        "title": "Jaipur Wholesale Hub Expansion",
+        "description": "Operations expanded in Mansarovar, Jaipur, establishing a dedicated local distribution and wholesale base for electrical equipment.",
+        "current": false
+      },
+      {
+        "id": 7,
+        "year": "Certified",
+        "title": "Quality & Regulatory Certifications",
+        "description": "The brand achieved compliance across major Indian and international standards, including ISI, ISO, BIS (Bureau of Indian Standards) and BEE (Bureau of Energy Efficiency).",
+        "current": false
+      },
+      {
+        "id": 8,
+        "year": "Growth",
+        "title": "Product Line Diversification",
+        "description": "Safonix grew from basic wiring and distribution components into a full-catalog supplier offering modular switches (Matris and Xtreme series), LED lighting, multistrand wires, MCBs, distribution boards and ventilation fans.",
+        "current": false
+      },
+      {
+        "id": 9,
+        "year": "Digital",
+        "title": "Digital & Loyalty Ecosystem",
+        "description": "The company launched the Safonix Smart Link mobile app, introducing QR-code reward tracking and digital wallet redemption for dealers and electricians.",
+        "current": true
+      }
+    ],
+    "capabilities": [
+      {
+        "id": 1,
+        "icon": "factory",
+        "title": "Jaipur Hub",
+        "description": "Our Mansarovar base in Jaipur serves as a dedicated distribution and wholesale hub for electrical equipment.",
+        "bullets": "Mansarovar, Jaipur, Rajasthan\nLocal distribution and wholesale"
+      },
+      {
+        "id": 2,
+        "icon": "box",
+        "title": "Vasai Unit",
+        "description": "Our second location, in Vasai (E), Palghar, Maharashtra.",
+        "bullets": "Blue Bell Industrial Estate\nKT Industrial Park"
+      },
+      {
+        "id": 3,
+        "icon": "shield",
+        "title": "Quality Standards",
+        "description": "Products are developed to meet major Indian quality and energy-efficiency standards.",
+        "bullets": "ISI and BIS\nISO\nBEE (energy efficiency)"
+      },
+      {
+        "id": 4,
+        "icon": "gear",
+        "title": "Full Product Range",
+        "description": "From wires and cables to modular switches, one supplier for everyday electrical needs.",
+        "bullets": "Modular switches and LED lighting\nMCBs and distribution boards\nWires, cables and ventilation fans"
+      }
+    ],
+    "leaders": [
+      {
+        "id": 1,
+        "icon": "user",
+        "role": "Founder",
+        "unit": "SAFONIX INDIA",
+        "text": "Safonix India grew out of the founder’s experience of serving the electrical industry since 1998.",
+        "badge": "Industry experience since 1998"
+      },
+      {
+        "id": 2,
+        "icon": "shield",
+        "role": "Quality & Compliance",
+        "unit": "STANDARDS",
+        "text": "Products are developed to meet ISI, BIS, ISO and BEE quality standards.",
+        "badge": "ISI · BIS · ISO · BEE"
+      },
+      {
+        "id": 3,
+        "icon": "headset",
+        "role": "Customer Support",
+        "unit": "SERVICE",
+        "text": "Our team is available for product enquiries and support on working days.",
+        "badge": "Mon–Sat, 10:00 AM – 7:00 PM"
+      }
+    ],
+    "valuesSlides": [
+      {
+        "id": 1,
+        "title": "Safonix India at a glance"
+      },
+      {
+        "id": 2,
+        "title": "Top quality and safety tested"
+      }
+    ],
+    "image": {
+      "id": 42,
+      "url": "/uploads/abut_qa_1069fd1499.avif",
+      "alternativeText": "abut qa.avif",
+      "width": 626,
+      "height": 475
+    },
+    "valuesImage": {
+      "id": 44,
+      "url": "/uploads/values_india_map_481068229e.png",
+      "alternativeText": "Map of India",
+      "width": 800,
+      "height": 700
+    }
+  },
+  "contactPage": {
+    "id": 1,
+    "documentId": "aknqp5dt6g9kfzxel975bu35",
+    "eyebrow": "GET IN TOUCH",
+    "title": "Contact Us",
+    "subtitle": "Need help choosing the right product? Reach out to us and discover how we can help!",
+    "sectionTitle": "How Can We Help You Today?",
+    "sectionSubtitle": "Reach us by phone or email, or visit one of our offices.",
+    "helpTitle": "Get in touch with us!",
+    "helpText": "Our team is here to assist you with expert advice and personalized recommendations.",
+    "helpLabel": "Explore Products",
+    "mapTitle": "Our Location",
+    "createdAt": "2026-11-11T05:45:50.196Z",
+    "updatedAt": "2026-11-13T04:17:39.570Z",
+    "publishedAt": "2026-11-13T04:17:39.565Z",
+    "locale": null,
+    "mapCoordinates": "26.850377,75.7676396",
+    "faqEyebrow": "Frequently asked questions",
+    "faqTitle": "Got Questions? We Have **Answers.**",
+    "faqSubtitle": "Everything you need to know about partnering with Safonix and ordering machinery.",
+    "heroImage": {
+      "id": 21,
+      "url": "/uploads/Sleek_Headset_on_Marble_Desk_2a59f1da53.png",
+      "alternativeText": "Sleek Headset on Marble Desk.png",
+      "width": 1672,
+      "height": 941
+    }
+  },
+  "productsPage": {
+    "id": 1,
+    "documentId": "e7laebfn2jbp6dlonaxgq7h9",
+    "eyebrow": "OUR PRODUCTS",
+    "title": "Our Products",
+    "subtitle": "Quality electrical products built to Indian standards.",
+    "createdAt": "2026-11-11T06:24:41.789Z",
+    "updatedAt": "2026-11-11T06:24:41.789Z",
+    "publishedAt": "2026-11-11T06:24:41.779Z",
+    "locale": null,
+    "heroImage": {
+      "id": 22,
+      "url": "/uploads/products_hero_a65c1954e8.jpg",
+      "alternativeText": "White three-switch panel on a wall beside green plants",
+      "width": 2000,
+      "height": 709
+    }
+  },
+  "categories": [
+    {
+      "id": 6,
+      "documentId": "s6dju15gzlzib87b5sklggdk",
+      "name": "High Wattage LED Bulbs",
+      "slug": "high-wattage-led-bulbs",
+      "tagline": null,
+      "description": null,
+      "order": 1,
+      "createdAt": "2026-11-10T07:41:58.435Z",
+      "updatedAt": "2026-11-10T07:41:58.435Z",
+      "publishedAt": "2026-11-10T07:41:58.419Z",
+      "locale": null,
+      "homeOrder": null,
+      "showInMenu": null,
+      "showInProducts": null,
+      "highlights": [],
+      "children": [],
+      "parent": {
+        "id": 4,
+        "documentId": "n7rfcvuzengr09nf4xkc10iw",
+        "name": "LED Lighting",
+        "slug": "led-lighting"
+      },
+      "image": null
+    },
+    {
+      "id": 8,
+      "documentId": "uozcm8e0zbs04osbq7qualww",
+      "name": "T5 LED Tubelights",
+      "slug": "t5-led-tubelights",
+      "tagline": null,
+      "description": null,
+      "order": 3,
+      "createdAt": "2026-11-10T07:41:58.571Z",
+      "updatedAt": "2026-11-10T07:41:58.571Z",
+      "publishedAt": "2026-11-10T07:41:58.553Z",
+      "locale": null,
+      "homeOrder": null,
+      "showInMenu": null,
+      "showInProducts": null,
+      "highlights": [],
+      "children": [],
+      "parent": {
+        "id": 4,
+        "documentId": "n7rfcvuzengr09nf4xkc10iw",
+        "name": "LED Lighting",
+        "slug": "led-lighting"
+      },
+      "image": null
+    },
+    {
+      "id": 12,
+      "documentId": "so05mfzny7gfk52mg6jo3atv",
+      "name": "Multicore Copper Flexible Wires",
+      "slug": "multicore-copper-flexible-wires",
+      "tagline": null,
+      "description": null,
+      "order": 1,
+      "createdAt": "2026-11-10T07:41:58.730Z",
+      "updatedAt": "2026-11-10T07:41:58.730Z",
+      "publishedAt": "2026-11-10T07:41:58.712Z",
+      "locale": null,
+      "homeOrder": null,
+      "showInMenu": null,
+      "showInProducts": null,
+      "highlights": [],
+      "children": [],
+      "parent": {
+        "id": 10,
+        "documentId": "rg4mtaw3j4a82iayh4almt2g",
+        "name": "Wire & Cables",
+        "slug": "wire-and-cables"
+      },
+      "image": null
+    },
+    {
+      "id": 15,
+      "documentId": "w6d7jzn3532o1xfkue3bys08",
+      "name": "ELCB",
+      "slug": "elcb",
+      "tagline": null,
+      "description": null,
+      "order": 1,
+      "createdAt": "2026-11-10T07:41:58.862Z",
+      "updatedAt": "2026-11-10T07:41:58.862Z",
+      "publishedAt": "2026-11-10T07:41:58.846Z",
+      "locale": null,
+      "homeOrder": null,
+      "showInMenu": null,
+      "showInProducts": null,
+      "highlights": [],
+      "children": [],
+      "parent": {
+        "id": 13,
+        "documentId": "joq9mymurznwayoe5bvukv7q",
+        "name": "MCBs & DBs",
+        "slug": "mcbs-and-dbs"
+      },
+      "image": null
+    },
+    {
+      "id": 22,
+      "documentId": "xct71c78770qz5ess8nstexh",
+      "name": "BLDC Fans",
+      "slug": "bldc-fans",
+      "tagline": null,
+      "description": null,
+      "order": 0,
+      "createdAt": "2026-11-10T07:41:59.169Z",
+      "updatedAt": "2026-11-10T07:41:59.169Z",
+      "publishedAt": "2026-11-10T07:41:59.155Z",
+      "locale": null,
+      "homeOrder": null,
+      "showInMenu": null,
+      "showInProducts": null,
+      "highlights": [],
+      "children": [],
+      "parent": {
+        "id": 21,
+        "documentId": "h11vmf9u09szoqcuj7w31f8q",
+        "name": "Fans",
+        "slug": "fans"
+      },
+      "image": null
+    },
+    {
+      "id": 24,
+      "documentId": "w6fo4env8pfbqd2x8r8ney4y",
+      "name": "Extension Cords & Door Bells",
+      "slug": "extension-cords-and-door-bells",
+      "tagline": null,
+      "description": null,
+      "order": 0,
+      "createdAt": "2026-11-10T07:41:59.242Z",
+      "updatedAt": "2026-11-10T07:41:59.242Z",
+      "publishedAt": "2026-11-10T07:41:59.222Z",
+      "locale": null,
+      "homeOrder": null,
+      "showInMenu": null,
+      "showInProducts": null,
+      "highlights": [],
+      "children": [],
+      "parent": {
+        "id": 23,
+        "documentId": "pom17c03rl27e6b58y9cm5s1",
+        "name": "Accessories",
+        "slug": "accessories"
+      },
+      "image": null
+    },
+    {
+      "id": 25,
+      "documentId": "g92dwtboka1gdbmjgku9yhbn",
+      "name": "Holder & Ceiling Rose",
+      "slug": "holder-and-ceiling-rose",
+      "tagline": null,
+      "description": null,
+      "order": 1,
+      "createdAt": "2026-11-10T07:41:59.312Z",
+      "updatedAt": "2026-11-10T07:41:59.312Z",
+      "publishedAt": "2026-11-10T07:41:59.290Z",
+      "locale": null,
+      "homeOrder": null,
+      "showInMenu": null,
+      "showInProducts": null,
+      "highlights": [],
+      "children": [],
+      "parent": {
+        "id": 23,
+        "documentId": "pom17c03rl27e6b58y9cm5s1",
+        "name": "Accessories",
+        "slug": "accessories"
+      },
+      "image": null
+    },
+    {
+      "id": 26,
+      "documentId": "mv3tb8t8wxo7xi0ewczyg8fy",
+      "name": "Modular Gang Boxes",
+      "slug": "modular-gang-boxes",
+      "tagline": null,
+      "description": null,
+      "order": 2,
+      "createdAt": "2026-11-10T07:41:59.353Z",
+      "updatedAt": "2026-11-10T07:41:59.353Z",
+      "publishedAt": "2026-11-10T07:41:59.337Z",
+      "locale": null,
+      "homeOrder": null,
+      "showInMenu": null,
+      "showInProducts": null,
+      "highlights": [],
+      "children": [],
+      "parent": {
+        "id": 23,
+        "documentId": "pom17c03rl27e6b58y9cm5s1",
+        "name": "Accessories",
+        "slug": "accessories"
+      },
+      "image": null
+    },
+    {
+      "id": 27,
+      "documentId": "gle74h78stq2fppu4ze6a6rc",
+      "name": "Plugs Tops",
+      "slug": "plugs-tops",
+      "tagline": null,
+      "description": null,
+      "order": 3,
+      "createdAt": "2026-11-10T07:41:59.399Z",
+      "updatedAt": "2026-11-10T07:41:59.399Z",
+      "publishedAt": "2026-11-10T07:41:59.381Z",
+      "locale": null,
+      "homeOrder": null,
+      "showInMenu": null,
+      "showInProducts": null,
+      "highlights": [],
+      "children": [],
+      "parent": {
+        "id": 23,
+        "documentId": "pom17c03rl27e6b58y9cm5s1",
+        "name": "Accessories",
+        "slug": "accessories"
+      },
+      "image": null
+    },
+    {
+      "id": 28,
+      "documentId": "um3stt2g0pimc4giiny9f1jz",
+      "name": "Surface Boxes",
+      "slug": "surface-boxes",
+      "tagline": null,
+      "description": null,
+      "order": 4,
+      "createdAt": "2026-11-10T07:41:59.455Z",
+      "updatedAt": "2026-11-10T07:41:59.455Z",
+      "publishedAt": "2026-11-10T07:41:59.432Z",
+      "locale": null,
+      "homeOrder": null,
+      "showInMenu": null,
+      "showInProducts": null,
+      "highlights": [],
+      "children": [],
+      "parent": {
+        "id": 23,
+        "documentId": "pom17c03rl27e6b58y9cm5s1",
+        "name": "Accessories",
+        "slug": "accessories"
+      },
+      "image": null
+    },
+    {
+      "id": 16,
+      "documentId": "tstuqvjg09yy976uy0f0jaho",
+      "name": "Zenia Distribution Boards",
+      "slug": "zenia-distribution-boards",
+      "tagline": "Organized and efficient solutions for your electrical distribution needs.",
+      "description": null,
+      "order": 2,
+      "createdAt": "2026-11-10T07:41:58.931Z",
+      "updatedAt": "2026-11-10T08:04:12.544Z",
+      "publishedAt": "2026-11-10T08:04:12.538Z",
+      "locale": null,
+      "homeOrder": 7,
+      "showInMenu": null,
+      "showInProducts": null,
+      "highlights": [],
+      "children": [],
+      "parent": {
+        "id": 13,
+        "documentId": "joq9mymurznwayoe5bvukv7q",
+        "name": "MCBs & DBs",
+        "slug": "mcbs-and-dbs"
+      },
+      "image": {
+        "id": 10,
+        "url": "/uploads/MCB_Distribution_board_new_2_415cc11410.png",
+        "alternativeText": "Zenia Distribution Boards",
+        "width": 800,
+        "height": 800
+      }
+    },
+    {
+      "id": 2,
+      "documentId": "xhj4npjuo3n0fdsi48aelc92",
+      "name": "Matris Modular Series",
+      "slug": "matris-modular-series",
+      "tagline": "Elegant switches designed for style, safety, and seamless performance.",
+      "description": null,
+      "order": 0,
+      "createdAt": "2026-11-10T07:41:58.282Z",
+      "updatedAt": "2026-11-10T09:59:34.187Z",
+      "publishedAt": "2026-11-10T09:59:34.178Z",
+      "locale": null,
+      "homeOrder": null,
+      "showInMenu": true,
+      "showInProducts": null,
+      "highlights": [],
+      "children": [],
+      "parent": {
+        "id": 1,
+        "documentId": "mhxlvbbgbldz4bp9n8ngwfob",
+        "name": "Modular Switches",
+        "slug": "modular-switches"
+      },
+      "image": null
+    },
+    {
+      "id": 3,
+      "documentId": "m5tazjcjf8gucqkjrkm94ha0",
+      "name": "Xtreme Modular Series",
+      "slug": "xtreme-modular-series",
+      "tagline": "Elegant switches designed for style, safety, and seamless performance.",
+      "description": null,
+      "order": 1,
+      "createdAt": "2026-11-10T07:41:58.316Z",
+      "updatedAt": "2026-11-10T09:59:34.242Z",
+      "publishedAt": "2026-11-10T09:59:34.236Z",
+      "locale": null,
+      "homeOrder": 1,
+      "showInMenu": true,
+      "showInProducts": null,
+      "highlights": [],
+      "children": [],
+      "parent": {
+        "id": 1,
+        "documentId": "mhxlvbbgbldz4bp9n8ngwfob",
+        "name": "Modular Switches",
+        "slug": "modular-switches"
+      },
+      "image": {
+        "id": 4,
+        "url": "/uploads/2_1_3148b8039c.png",
+        "alternativeText": "Xtreme Modular Series",
+        "width": 800,
+        "height": 800
+      }
+    },
+    {
+      "id": 7,
+      "documentId": "uk4s1u8afo4f0ef6igown3k0",
+      "name": "Downlights",
+      "slug": "downlights",
+      "tagline": "Stylish and efficient lighting for premium home and office setups.",
+      "description": null,
+      "order": 0,
+      "createdAt": "2026-11-10T07:41:58.524Z",
+      "updatedAt": "2026-11-10T09:59:34.272Z",
+      "publishedAt": "2026-11-10T09:59:34.268Z",
+      "locale": null,
+      "homeOrder": 4,
+      "showInMenu": true,
+      "showInProducts": null,
+      "highlights": [],
+      "children": [],
+      "parent": {
+        "id": 4,
+        "documentId": "n7rfcvuzengr09nf4xkc10iw",
+        "name": "LED Lighting",
+        "slug": "led-lighting"
+      },
+      "image": {
+        "id": 7,
+        "url": "/uploads/LED_Penal_f1f3e7a5ae.png",
+        "alternativeText": "Downlights",
+        "width": 597,
+        "height": 597
+      }
+    },
+    {
+      "id": 9,
+      "documentId": "ez5m4g2ipm6gnkkxtnbt1yki",
+      "name": "Flood Lights and Street Lights",
+      "slug": "flood-lights-and-street-lights",
+      "tagline": "Robust outdoor lighting for safety and energy savings in large spaces.",
+      "description": null,
+      "order": 1,
+      "createdAt": "2026-11-10T07:41:58.614Z",
+      "updatedAt": "2026-11-10T09:59:34.298Z",
+      "publishedAt": "2026-11-10T09:59:34.294Z",
+      "locale": null,
+      "homeOrder": 5,
+      "showInMenu": true,
+      "showInProducts": null,
+      "highlights": [],
+      "children": [],
+      "parent": {
+        "id": 4,
+        "documentId": "n7rfcvuzengr09nf4xkc10iw",
+        "name": "LED Lighting",
+        "slug": "led-lighting"
+      },
+      "image": {
+        "id": 8,
+        "url": "/uploads/Frame_10000045290_5499248cc9.png",
+        "alternativeText": "Flood Lights and Street Lights",
+        "width": 275,
+        "height": 275
+      }
+    },
+    {
+      "id": 5,
+      "documentId": "shk1apam4ib3jdhnm18stsnn",
+      "name": "LED Bulbs",
+      "slug": "led-bulbs",
+      "tagline": null,
+      "description": null,
+      "order": 2,
+      "createdAt": "2026-11-10T07:41:58.391Z",
+      "updatedAt": "2026-11-10T09:59:34.326Z",
+      "publishedAt": "2026-11-10T09:59:34.323Z",
+      "locale": null,
+      "homeOrder": null,
+      "showInMenu": true,
+      "showInProducts": null,
+      "highlights": [],
+      "children": [],
+      "parent": {
+        "id": 4,
+        "documentId": "n7rfcvuzengr09nf4xkc10iw",
+        "name": "LED Lighting",
+        "slug": "led-lighting"
+      },
+      "image": null
+    },
+    {
+      "id": 11,
+      "documentId": "zzf4cnf6r0s8t10c1ilfh51g",
+      "name": "Multistrand Wires",
+      "slug": "multistrand-wires",
+      "tagline": null,
+      "description": null,
+      "order": 0,
+      "createdAt": "2026-11-10T07:41:58.692Z",
+      "updatedAt": "2026-11-10T09:59:34.357Z",
+      "publishedAt": "2026-11-10T09:59:34.352Z",
+      "locale": null,
+      "homeOrder": null,
+      "showInMenu": true,
+      "showInProducts": null,
+      "highlights": [],
+      "children": [],
+      "parent": {
+        "id": 10,
+        "documentId": "rg4mtaw3j4a82iayh4almt2g",
+        "name": "Wire & Cables",
+        "slug": "wire-and-cables"
+      },
+      "image": null
+    },
+    {
+      "id": 17,
+      "documentId": "z8uziv4iz8e17o8fg1vhne04",
+      "name": "Matris Distribution Boards",
+      "slug": "matris-distribution-boards",
+      "tagline": "Organized and efficient solutions for your electrical distribution needs.",
+      "description": null,
+      "order": 0,
+      "createdAt": "2026-11-10T07:41:58.988Z",
+      "updatedAt": "2026-11-10T09:59:34.382Z",
+      "publishedAt": "2026-11-10T09:59:34.377Z",
+      "locale": null,
+      "homeOrder": null,
+      "showInMenu": true,
+      "showInProducts": null,
+      "highlights": [],
+      "children": [],
+      "parent": {
+        "id": 13,
+        "documentId": "joq9mymurznwayoe5bvukv7q",
+        "name": "MCBs & DBs",
+        "slug": "mcbs-and-dbs"
+      },
+      "image": null
+    },
+    {
+      "id": 14,
+      "documentId": "p85v388q9xtxvrbnbkt08w0i",
+      "name": "MCBs & Isolators",
+      "slug": "mcb-s-and-isolators",
+      "tagline": "Reliable circuit protection for enhanced safety and power management.",
+      "description": null,
+      "order": 1,
+      "createdAt": "2026-11-10T07:41:58.816Z",
+      "updatedAt": "2026-11-10T09:59:34.416Z",
+      "publishedAt": "2026-11-10T09:59:34.410Z",
+      "locale": null,
+      "homeOrder": 6,
+      "showInMenu": true,
+      "showInProducts": null,
+      "highlights": [],
+      "children": [],
+      "parent": {
+        "id": 13,
+        "documentId": "joq9mymurznwayoe5bvukv7q",
+        "name": "MCBs & DBs",
+        "slug": "mcbs-and-dbs"
+      },
+      "image": {
+        "id": 9,
+        "url": "/uploads/MCB_efd7477590.png",
+        "alternativeText": "MCB's & Isolators",
+        "width": 800,
+        "height": 800
+      }
+    },
+    {
+      "id": 19,
+      "documentId": "gs4vwpiczqclxxylocib7pzz",
+      "name": "Fresh Air Fans",
+      "slug": "fresh-air-fans-12",
+      "tagline": null,
+      "description": null,
+      "order": 0,
+      "createdAt": "2026-11-10T07:41:59.064Z",
+      "updatedAt": "2026-11-10T09:59:34.452Z",
+      "publishedAt": "2026-11-10T09:59:34.447Z",
+      "locale": null,
+      "homeOrder": null,
+      "showInMenu": true,
+      "showInProducts": null,
+      "highlights": [],
+      "children": [],
+      "parent": {
+        "id": 18,
+        "documentId": "tbg79a0loga9wf6urw9shgu2",
+        "name": "Fresh Air & Ventilation Fans",
+        "slug": "fresh-air-and-ventilation-fans"
+      },
+      "image": null
+    },
+    {
+      "id": 20,
+      "documentId": "zimg6vsdm7k0tqovu4bet57v",
+      "name": "Ventilation Fans",
+      "slug": "ventilation-fans-8",
+      "tagline": null,
+      "description": null,
+      "order": 1,
+      "createdAt": "2026-11-10T07:41:59.111Z",
+      "updatedAt": "2026-11-10T09:59:34.485Z",
+      "publishedAt": "2026-11-10T09:59:34.480Z",
+      "locale": null,
+      "homeOrder": null,
+      "showInMenu": true,
+      "showInProducts": null,
+      "highlights": [],
+      "children": [],
+      "parent": {
+        "id": 18,
+        "documentId": "tbg79a0loga9wf6urw9shgu2",
+        "name": "Fresh Air & Ventilation Fans",
+        "slug": "fresh-air-and-ventilation-fans"
+      },
+      "image": null
+    },
+    {
+      "id": 23,
+      "documentId": "pom17c03rl27e6b58y9cm5s1",
+      "name": "Accessories",
+      "slug": "accessories",
+      "tagline": "",
+      "description": null,
+      "order": 6,
+      "createdAt": "2026-11-10T07:41:59.201Z",
+      "updatedAt": "2026-11-11T06:44:29.445Z",
+      "publishedAt": "2026-11-11T06:44:29.436Z",
+      "locale": null,
+      "homeOrder": null,
+      "showInMenu": null,
+      "showInProducts": false,
+      "highlights": [],
+      "children": [
+        {
+          "id": 24,
+          "documentId": "w6fo4env8pfbqd2x8r8ney4y",
+          "name": "Extension Cords & Door Bells",
+          "slug": "extension-cords-and-door-bells",
+          "tagline": null,
+          "description": null,
+          "order": 0,
+          "createdAt": "2026-11-10T07:41:59.242Z",
+          "updatedAt": "2026-11-10T07:41:59.242Z",
+          "publishedAt": "2026-11-10T07:41:59.222Z",
+          "locale": null,
+          "homeOrder": null,
+          "showInMenu": null,
+          "showInProducts": null,
+          "highlights": [],
+          "children": [],
+          "parent": {
+            "id": 23,
+            "documentId": "pom17c03rl27e6b58y9cm5s1",
+            "name": "Accessories",
+            "slug": "accessories"
+          },
+          "image": null
+        },
+        {
+          "id": 25,
+          "documentId": "g92dwtboka1gdbmjgku9yhbn",
+          "name": "Holder & Ceiling Rose",
+          "slug": "holder-and-ceiling-rose",
+          "tagline": null,
+          "description": null,
+          "order": 1,
+          "createdAt": "2026-11-10T07:41:59.312Z",
+          "updatedAt": "2026-11-10T07:41:59.312Z",
+          "publishedAt": "2026-11-10T07:41:59.290Z",
+          "locale": null,
+          "homeOrder": null,
+          "showInMenu": null,
+          "showInProducts": null,
+          "highlights": [],
+          "children": [],
+          "parent": {
+            "id": 23,
+            "documentId": "pom17c03rl27e6b58y9cm5s1",
+            "name": "Accessories",
+            "slug": "accessories"
+          },
+          "image": null
+        },
+        {
+          "id": 26,
+          "documentId": "mv3tb8t8wxo7xi0ewczyg8fy",
+          "name": "Modular Gang Boxes",
+          "slug": "modular-gang-boxes",
+          "tagline": null,
+          "description": null,
+          "order": 2,
+          "createdAt": "2026-11-10T07:41:59.353Z",
+          "updatedAt": "2026-11-10T07:41:59.353Z",
+          "publishedAt": "2026-11-10T07:41:59.337Z",
+          "locale": null,
+          "homeOrder": null,
+          "showInMenu": null,
+          "showInProducts": null,
+          "highlights": [],
+          "children": [],
+          "parent": {
+            "id": 23,
+            "documentId": "pom17c03rl27e6b58y9cm5s1",
+            "name": "Accessories",
+            "slug": "accessories"
+          },
+          "image": null
+        },
+        {
+          "id": 27,
+          "documentId": "gle74h78stq2fppu4ze6a6rc",
+          "name": "Plugs Tops",
+          "slug": "plugs-tops",
+          "tagline": null,
+          "description": null,
+          "order": 3,
+          "createdAt": "2026-11-10T07:41:59.399Z",
+          "updatedAt": "2026-11-10T07:41:59.399Z",
+          "publishedAt": "2026-11-10T07:41:59.381Z",
+          "locale": null,
+          "homeOrder": null,
+          "showInMenu": null,
+          "showInProducts": null,
+          "highlights": [],
+          "children": [],
+          "parent": {
+            "id": 23,
+            "documentId": "pom17c03rl27e6b58y9cm5s1",
+            "name": "Accessories",
+            "slug": "accessories"
+          },
+          "image": null
+        },
+        {
+          "id": 28,
+          "documentId": "um3stt2g0pimc4giiny9f1jz",
+          "name": "Surface Boxes",
+          "slug": "surface-boxes",
+          "tagline": null,
+          "description": null,
+          "order": 4,
+          "createdAt": "2026-11-10T07:41:59.455Z",
+          "updatedAt": "2026-11-10T07:41:59.455Z",
+          "publishedAt": "2026-11-10T07:41:59.432Z",
+          "locale": null,
+          "homeOrder": null,
+          "showInMenu": null,
+          "showInProducts": null,
+          "highlights": [],
+          "children": [],
+          "parent": {
+            "id": 23,
+            "documentId": "pom17c03rl27e6b58y9cm5s1",
+            "name": "Accessories",
+            "slug": "accessories"
+          },
+          "image": null
+        }
+      ],
+      "parent": null,
+      "image": null
+    },
+    {
+      "id": 1,
+      "documentId": "mhxlvbbgbldz4bp9n8ngwfob",
+      "name": "Modular Switches",
+      "slug": "modular-switches",
+      "tagline": "Sleek designs with advanced technology for modern living spaces.",
+      "description": null,
+      "order": 0,
+      "createdAt": "2026-11-10T07:41:58.251Z",
+      "updatedAt": "2026-11-12T03:21:57.600Z",
+      "publishedAt": "2026-11-12T03:21:57.551Z",
+      "locale": null,
+      "homeOrder": 0,
+      "showInMenu": true,
+      "showInProducts": null,
+      "highlights": [
+        {
+          "id": 19,
+          "title": "Sleek designs",
+          "description": "Designs made for modern living spaces."
+        },
+        {
+          "id": 20,
+          "title": "Advanced technology",
+          "description": "Switches built with advanced technology."
+        }
+      ],
+      "children": [
+        {
+          "id": 2,
+          "documentId": "xhj4npjuo3n0fdsi48aelc92",
+          "name": "Matris Modular Series",
+          "slug": "matris-modular-series",
+          "tagline": "Elegant switches designed for style, safety, and seamless performance.",
+          "description": null,
+          "order": 0,
+          "createdAt": "2026-11-10T07:41:58.282Z",
+          "updatedAt": "2026-11-10T09:59:34.187Z",
+          "publishedAt": "2026-11-10T09:59:34.178Z",
+          "locale": null,
+          "homeOrder": null,
+          "showInMenu": true,
+          "showInProducts": null,
+          "highlights": [],
+          "children": [],
+          "parent": {
+            "id": 1,
+            "documentId": "mhxlvbbgbldz4bp9n8ngwfob",
+            "name": "Modular Switches",
+            "slug": "modular-switches"
+          },
+          "image": null
+        },
+        {
+          "id": 3,
+          "documentId": "m5tazjcjf8gucqkjrkm94ha0",
+          "name": "Xtreme Modular Series",
+          "slug": "xtreme-modular-series",
+          "tagline": "Elegant switches designed for style, safety, and seamless performance.",
+          "description": null,
+          "order": 1,
+          "createdAt": "2026-11-10T07:41:58.316Z",
+          "updatedAt": "2026-11-10T09:59:34.242Z",
+          "publishedAt": "2026-11-10T09:59:34.236Z",
+          "locale": null,
+          "homeOrder": 1,
+          "showInMenu": true,
+          "showInProducts": null,
+          "highlights": [],
+          "children": [],
+          "parent": {
+            "id": 1,
+            "documentId": "mhxlvbbgbldz4bp9n8ngwfob",
+            "name": "Modular Switches",
+            "slug": "modular-switches"
+          },
+          "image": {
+            "id": 4,
+            "url": "/uploads/2_1_3148b8039c.png",
+            "alternativeText": "Xtreme Modular Series",
+            "width": 800,
+            "height": 800
+          }
+        }
+      ],
+      "parent": null,
+      "image": {
+        "id": 3,
+        "url": "/uploads/Switch_png_1_87c3965118.png",
+        "alternativeText": "Modular Switches",
+        "width": 1182,
+        "height": 884
+      }
+    },
+    {
+      "id": 4,
+      "documentId": "n7rfcvuzengr09nf4xkc10iw",
+      "name": "LED Lighting",
+      "slug": "led-lighting",
+      "tagline": "Energy-efficient lighting solutions for a brighter, greener future.",
+      "description": null,
+      "order": 1,
+      "createdAt": "2026-11-10T07:41:58.346Z",
+      "updatedAt": "2026-11-12T03:21:57.661Z",
+      "publishedAt": "2026-11-12T03:21:57.644Z",
+      "locale": null,
+      "homeOrder": 3,
+      "showInMenu": true,
+      "showInProducts": null,
+      "highlights": [
+        {
+          "id": 21,
+          "title": "Energy-efficient",
+          "description": "Lighting solutions that help save energy."
+        },
+        {
+          "id": 22,
+          "title": "Brighter, greener future",
+          "description": "Lighting made for a brighter, greener future."
+        }
+      ],
+      "children": [
+        {
+          "id": 5,
+          "documentId": "shk1apam4ib3jdhnm18stsnn",
+          "name": "LED Bulbs",
+          "slug": "led-bulbs",
+          "tagline": null,
+          "description": null,
+          "order": 2,
+          "createdAt": "2026-11-10T07:41:58.391Z",
+          "updatedAt": "2026-11-10T09:59:34.326Z",
+          "publishedAt": "2026-11-10T09:59:34.323Z",
+          "locale": null,
+          "homeOrder": null,
+          "showInMenu": true,
+          "showInProducts": null,
+          "highlights": [],
+          "children": [],
+          "parent": {
+            "id": 4,
+            "documentId": "n7rfcvuzengr09nf4xkc10iw",
+            "name": "LED Lighting",
+            "slug": "led-lighting"
+          },
+          "image": null
+        },
+        {
+          "id": 6,
+          "documentId": "s6dju15gzlzib87b5sklggdk",
+          "name": "High Wattage LED Bulbs",
+          "slug": "high-wattage-led-bulbs",
+          "tagline": null,
+          "description": null,
+          "order": 1,
+          "createdAt": "2026-11-10T07:41:58.435Z",
+          "updatedAt": "2026-11-10T07:41:58.435Z",
+          "publishedAt": "2026-11-10T07:41:58.419Z",
+          "locale": null,
+          "homeOrder": null,
+          "showInMenu": null,
+          "showInProducts": null,
+          "highlights": [],
+          "children": [],
+          "parent": {
+            "id": 4,
+            "documentId": "n7rfcvuzengr09nf4xkc10iw",
+            "name": "LED Lighting",
+            "slug": "led-lighting"
+          },
+          "image": null
+        },
+        {
+          "id": 7,
+          "documentId": "uk4s1u8afo4f0ef6igown3k0",
+          "name": "Downlights",
+          "slug": "downlights",
+          "tagline": "Stylish and efficient lighting for premium home and office setups.",
+          "description": null,
+          "order": 0,
+          "createdAt": "2026-11-10T07:41:58.524Z",
+          "updatedAt": "2026-11-10T09:59:34.272Z",
+          "publishedAt": "2026-11-10T09:59:34.268Z",
+          "locale": null,
+          "homeOrder": 4,
+          "showInMenu": true,
+          "showInProducts": null,
+          "highlights": [],
+          "children": [],
+          "parent": {
+            "id": 4,
+            "documentId": "n7rfcvuzengr09nf4xkc10iw",
+            "name": "LED Lighting",
+            "slug": "led-lighting"
+          },
+          "image": {
+            "id": 7,
+            "url": "/uploads/LED_Penal_f1f3e7a5ae.png",
+            "alternativeText": "Downlights",
+            "width": 597,
+            "height": 597
+          }
+        },
+        {
+          "id": 8,
+          "documentId": "uozcm8e0zbs04osbq7qualww",
+          "name": "T5 LED Tubelights",
+          "slug": "t5-led-tubelights",
+          "tagline": null,
+          "description": null,
+          "order": 3,
+          "createdAt": "2026-11-10T07:41:58.571Z",
+          "updatedAt": "2026-11-10T07:41:58.571Z",
+          "publishedAt": "2026-11-10T07:41:58.553Z",
+          "locale": null,
+          "homeOrder": null,
+          "showInMenu": null,
+          "showInProducts": null,
+          "highlights": [],
+          "children": [],
+          "parent": {
+            "id": 4,
+            "documentId": "n7rfcvuzengr09nf4xkc10iw",
+            "name": "LED Lighting",
+            "slug": "led-lighting"
+          },
+          "image": null
+        },
+        {
+          "id": 9,
+          "documentId": "ez5m4g2ipm6gnkkxtnbt1yki",
+          "name": "Flood Lights and Street Lights",
+          "slug": "flood-lights-and-street-lights",
+          "tagline": "Robust outdoor lighting for safety and energy savings in large spaces.",
+          "description": null,
+          "order": 1,
+          "createdAt": "2026-11-10T07:41:58.614Z",
+          "updatedAt": "2026-11-10T09:59:34.298Z",
+          "publishedAt": "2026-11-10T09:59:34.294Z",
+          "locale": null,
+          "homeOrder": 5,
+          "showInMenu": true,
+          "showInProducts": null,
+          "highlights": [],
+          "children": [],
+          "parent": {
+            "id": 4,
+            "documentId": "n7rfcvuzengr09nf4xkc10iw",
+            "name": "LED Lighting",
+            "slug": "led-lighting"
+          },
+          "image": {
+            "id": 8,
+            "url": "/uploads/Frame_10000045290_5499248cc9.png",
+            "alternativeText": "Flood Lights and Street Lights",
+            "width": 275,
+            "height": 275
+          }
+        }
+      ],
+      "parent": null,
+      "image": {
+        "id": 6,
+        "url": "/uploads/LED_Bulb_8936f54121.png",
+        "alternativeText": "LED Lighting",
+        "width": 800,
+        "height": 800
+      }
+    },
+    {
+      "id": 10,
+      "documentId": "rg4mtaw3j4a82iayh4almt2g",
+      "name": "Wire & Cables",
+      "slug": "wire-and-cables",
+      "tagline": "Durable, FR and eco-friendly wires for long-lasting electrical solutions.",
+      "description": null,
+      "order": 2,
+      "createdAt": "2026-11-10T07:41:58.649Z",
+      "updatedAt": "2026-11-12T03:21:57.710Z",
+      "publishedAt": "2026-11-12T03:21:57.696Z",
+      "locale": null,
+      "homeOrder": 2,
+      "showInMenu": true,
+      "showInProducts": null,
+      "highlights": [
+        {
+          "id": 23,
+          "title": "Durable",
+          "description": "Wires made for long-lasting electrical solutions."
+        },
+        {
+          "id": 24,
+          "title": "FR wires",
+          "description": "Durable FR wires for everyday electrical use."
+        },
+        {
+          "id": 25,
+          "title": "Eco-friendly",
+          "description": "Eco-friendly wires for responsible building."
+        }
+      ],
+      "children": [
+        {
+          "id": 11,
+          "documentId": "zzf4cnf6r0s8t10c1ilfh51g",
+          "name": "Multistrand Wires",
+          "slug": "multistrand-wires",
+          "tagline": null,
+          "description": null,
+          "order": 0,
+          "createdAt": "2026-11-10T07:41:58.692Z",
+          "updatedAt": "2026-11-10T09:59:34.357Z",
+          "publishedAt": "2026-11-10T09:59:34.352Z",
+          "locale": null,
+          "homeOrder": null,
+          "showInMenu": true,
+          "showInProducts": null,
+          "highlights": [],
+          "children": [],
+          "parent": {
+            "id": 10,
+            "documentId": "rg4mtaw3j4a82iayh4almt2g",
+            "name": "Wire & Cables",
+            "slug": "wire-and-cables"
+          },
+          "image": null
+        },
+        {
+          "id": 12,
+          "documentId": "so05mfzny7gfk52mg6jo3atv",
+          "name": "Multicore Copper Flexible Wires",
+          "slug": "multicore-copper-flexible-wires",
+          "tagline": null,
+          "description": null,
+          "order": 1,
+          "createdAt": "2026-11-10T07:41:58.730Z",
+          "updatedAt": "2026-11-10T07:41:58.730Z",
+          "publishedAt": "2026-11-10T07:41:58.712Z",
+          "locale": null,
+          "homeOrder": null,
+          "showInMenu": null,
+          "showInProducts": null,
+          "highlights": [],
+          "children": [],
+          "parent": {
+            "id": 10,
+            "documentId": "rg4mtaw3j4a82iayh4almt2g",
+            "name": "Wire & Cables",
+            "slug": "wire-and-cables"
+          },
+          "image": null
+        }
+      ],
+      "parent": null,
+      "image": {
+        "id": 5,
+        "url": "/uploads/Multistand_Wires_4a3778a10c.png",
+        "alternativeText": "Wire & Cables",
+        "width": 800,
+        "height": 800
+      }
+    },
+    {
+      "id": 13,
+      "documentId": "joq9mymurznwayoe5bvukv7q",
+      "name": "MCBs & DBs",
+      "slug": "mcbs-and-dbs",
+      "tagline": "Reliable circuit protection for enhanced safety and power management.",
+      "description": null,
+      "order": 3,
+      "createdAt": "2026-11-10T07:41:58.761Z",
+      "updatedAt": "2026-11-12T03:21:57.772Z",
+      "publishedAt": "2026-11-12T03:21:57.750Z",
+      "locale": null,
+      "homeOrder": null,
+      "showInMenu": true,
+      "showInProducts": null,
+      "highlights": [
+        {
+          "id": 26,
+          "title": "Reliable circuit protection",
+          "description": "Dependable protection for your circuits."
+        },
+        {
+          "id": 27,
+          "title": "Enhanced safety",
+          "description": "Safer, better-managed power."
+        }
+      ],
+      "children": [
+        {
+          "id": 14,
+          "documentId": "p85v388q9xtxvrbnbkt08w0i",
+          "name": "MCBs & Isolators",
+          "slug": "mcb-s-and-isolators",
+          "tagline": "Reliable circuit protection for enhanced safety and power management.",
+          "description": null,
+          "order": 1,
+          "createdAt": "2026-11-10T07:41:58.816Z",
+          "updatedAt": "2026-11-10T09:59:34.416Z",
+          "publishedAt": "2026-11-10T09:59:34.410Z",
+          "locale": null,
+          "homeOrder": 6,
+          "showInMenu": true,
+          "showInProducts": null,
+          "highlights": [],
+          "children": [],
+          "parent": {
+            "id": 13,
+            "documentId": "joq9mymurznwayoe5bvukv7q",
+            "name": "MCBs & DBs",
+            "slug": "mcbs-and-dbs"
+          },
+          "image": {
+            "id": 9,
+            "url": "/uploads/MCB_efd7477590.png",
+            "alternativeText": "MCB's & Isolators",
+            "width": 800,
+            "height": 800
+          }
+        },
+        {
+          "id": 15,
+          "documentId": "w6d7jzn3532o1xfkue3bys08",
+          "name": "ELCB",
+          "slug": "elcb",
+          "tagline": null,
+          "description": null,
+          "order": 1,
+          "createdAt": "2026-11-10T07:41:58.862Z",
+          "updatedAt": "2026-11-10T07:41:58.862Z",
+          "publishedAt": "2026-11-10T07:41:58.846Z",
+          "locale": null,
+          "homeOrder": null,
+          "showInMenu": null,
+          "showInProducts": null,
+          "highlights": [],
+          "children": [],
+          "parent": {
+            "id": 13,
+            "documentId": "joq9mymurznwayoe5bvukv7q",
+            "name": "MCBs & DBs",
+            "slug": "mcbs-and-dbs"
+          },
+          "image": null
+        },
+        {
+          "id": 16,
+          "documentId": "tstuqvjg09yy976uy0f0jaho",
+          "name": "Zenia Distribution Boards",
+          "slug": "zenia-distribution-boards",
+          "tagline": "Organized and efficient solutions for your electrical distribution needs.",
+          "description": null,
+          "order": 2,
+          "createdAt": "2026-11-10T07:41:58.931Z",
+          "updatedAt": "2026-11-10T08:04:12.544Z",
+          "publishedAt": "2026-11-10T08:04:12.538Z",
+          "locale": null,
+          "homeOrder": 7,
+          "showInMenu": null,
+          "showInProducts": null,
+          "highlights": [],
+          "children": [],
+          "parent": {
+            "id": 13,
+            "documentId": "joq9mymurznwayoe5bvukv7q",
+            "name": "MCBs & DBs",
+            "slug": "mcbs-and-dbs"
+          },
+          "image": {
+            "id": 10,
+            "url": "/uploads/MCB_Distribution_board_new_2_415cc11410.png",
+            "alternativeText": "Zenia Distribution Boards",
+            "width": 800,
+            "height": 800
+          }
+        },
+        {
+          "id": 17,
+          "documentId": "z8uziv4iz8e17o8fg1vhne04",
+          "name": "Matris Distribution Boards",
+          "slug": "matris-distribution-boards",
+          "tagline": "Organized and efficient solutions for your electrical distribution needs.",
+          "description": null,
+          "order": 0,
+          "createdAt": "2026-11-10T07:41:58.988Z",
+          "updatedAt": "2026-11-10T09:59:34.382Z",
+          "publishedAt": "2026-11-10T09:59:34.377Z",
+          "locale": null,
+          "homeOrder": null,
+          "showInMenu": true,
+          "showInProducts": null,
+          "highlights": [],
+          "children": [],
+          "parent": {
+            "id": 13,
+            "documentId": "joq9mymurznwayoe5bvukv7q",
+            "name": "MCBs & DBs",
+            "slug": "mcbs-and-dbs"
+          },
+          "image": null
+        }
+      ],
+      "parent": null,
+      "image": {
+        "id": 16,
+        "url": "/uploads/range_mcb_15ac0f40ba.png",
+        "alternativeText": "MCBs & Distribution Boards",
+        "width": 600,
+        "height": 581
+      }
+    },
+    {
+      "id": 18,
+      "documentId": "tbg79a0loga9wf6urw9shgu2",
+      "name": "Fresh Air & Ventilation Fans",
+      "slug": "fresh-air-and-ventilation-fans",
+      "tagline": "Powerful ventilation solutions for cleaner and healthier spaces.",
+      "description": null,
+      "order": 4,
+      "createdAt": "2026-11-10T07:41:59.026Z",
+      "updatedAt": "2026-11-12T03:21:57.834Z",
+      "publishedAt": "2026-11-12T03:21:57.811Z",
+      "locale": null,
+      "homeOrder": 9,
+      "showInMenu": true,
+      "showInProducts": null,
+      "highlights": [
+        {
+          "id": 28,
+          "title": "Powerful ventilation",
+          "description": "Ventilation solutions with strong performance."
+        },
+        {
+          "id": 29,
+          "title": "Cleaner, healthier spaces",
+          "description": "Fresh air for healthier rooms."
+        }
+      ],
+      "children": [
+        {
+          "id": 19,
+          "documentId": "gs4vwpiczqclxxylocib7pzz",
+          "name": "Fresh Air Fans",
+          "slug": "fresh-air-fans-12",
+          "tagline": null,
+          "description": null,
+          "order": 0,
+          "createdAt": "2026-11-10T07:41:59.064Z",
+          "updatedAt": "2026-11-10T09:59:34.452Z",
+          "publishedAt": "2026-11-10T09:59:34.447Z",
+          "locale": null,
+          "homeOrder": null,
+          "showInMenu": true,
+          "showInProducts": null,
+          "highlights": [],
+          "children": [],
+          "parent": {
+            "id": 18,
+            "documentId": "tbg79a0loga9wf6urw9shgu2",
+            "name": "Fresh Air & Ventilation Fans",
+            "slug": "fresh-air-and-ventilation-fans"
+          },
+          "image": null
+        },
+        {
+          "id": 20,
+          "documentId": "zimg6vsdm7k0tqovu4bet57v",
+          "name": "Ventilation Fans",
+          "slug": "ventilation-fans-8",
+          "tagline": null,
+          "description": null,
+          "order": 1,
+          "createdAt": "2026-11-10T07:41:59.111Z",
+          "updatedAt": "2026-11-10T09:59:34.485Z",
+          "publishedAt": "2026-11-10T09:59:34.480Z",
+          "locale": null,
+          "homeOrder": null,
+          "showInMenu": true,
+          "showInProducts": null,
+          "highlights": [],
+          "children": [],
+          "parent": {
+            "id": 18,
+            "documentId": "tbg79a0loga9wf6urw9shgu2",
+            "name": "Fresh Air & Ventilation Fans",
+            "slug": "fresh-air-and-ventilation-fans"
+          },
+          "image": null
+        }
+      ],
+      "parent": null,
+      "image": {
+        "id": 12,
+        "url": "/uploads/Ventilation_Fan_New_2_cb13f418c0.png",
+        "alternativeText": "Fresh Air & Ventilation Fans",
+        "width": 800,
+        "height": 800
+      }
+    },
+    {
+      "id": 21,
+      "documentId": "h11vmf9u09szoqcuj7w31f8q",
+      "name": "Fans",
+      "slug": "fans",
+      "tagline": "High-performance fans for fresh and comfortable ventilation.",
+      "description": null,
+      "order": 5,
+      "createdAt": "2026-11-10T07:41:59.137Z",
+      "updatedAt": "2026-11-12T03:21:57.879Z",
+      "publishedAt": "2026-11-12T03:21:57.863Z",
+      "locale": null,
+      "homeOrder": 8,
+      "showInMenu": null,
+      "showInProducts": null,
+      "highlights": [
+        {
+          "id": 30,
+          "title": "High performance",
+          "description": "High-performance fans for everyday use."
+        },
+        {
+          "id": 31,
+          "title": "Fresh and comfortable",
+          "description": "Comfortable, fresh ventilation."
+        }
+      ],
+      "children": [
+        {
+          "id": 22,
+          "documentId": "xct71c78770qz5ess8nstexh",
+          "name": "BLDC Fans",
+          "slug": "bldc-fans",
+          "tagline": null,
+          "description": null,
+          "order": 0,
+          "createdAt": "2026-11-10T07:41:59.169Z",
+          "updatedAt": "2026-11-10T07:41:59.169Z",
+          "publishedAt": "2026-11-10T07:41:59.155Z",
+          "locale": null,
+          "homeOrder": null,
+          "showInMenu": null,
+          "showInProducts": null,
+          "highlights": [],
+          "children": [],
+          "parent": {
+            "id": 21,
+            "documentId": "h11vmf9u09szoqcuj7w31f8q",
+            "name": "Fans",
+            "slug": "fans"
+          },
+          "image": null
+        }
+      ],
+      "parent": null,
+      "image": {
+        "id": 11,
+        "url": "/uploads/Fresh_Air_fan_New_f7b350d040.png",
+        "alternativeText": "Fans",
+        "width": 800,
+        "height": 800
+      }
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "documentId": "d69397wyriiwyhgucfzj5ujl",
+      "title": "Exceptional Variety & Unmatched Quality",
+      "quote": "We've been sourcing electricals from Safonix India for years, and their range is simply unbeatable. Whether it's switches, sockets, led lights or wiring solutions, they have everything we need with the highest quality standards. Highly recommended.",
+      "name": "Sumit Sharma",
+      "company": "SK Electricals - Jaipur",
+      "order": 0,
+      "createdAt": "2026-11-10T08:15:38.109Z",
+      "updatedAt": "2026-11-10T08:15:38.109Z",
+      "publishedAt": "2026-11-10T08:15:38.105Z",
+      "locale": null,
+      "videoUrl": null,
+      "photo": null
+    },
+    {
+      "id": 2,
+      "documentId": "iyr3yoyep18l5wiw81nwpcyk",
+      "title": "A Name We Trust for 15 Years",
+      "quote": "From day one, we’ve received premium electricals at fair prices. Their commitment to quality and customer satisfaction keeps us choosing their better work. Safonix India offers fair pricing, great quality – the perfect combination.",
+      "name": "Avinash Kevlani",
+      "company": "Jai Electricals - Bharatpur",
+      "order": 1,
+      "createdAt": "2026-11-10T08:15:38.129Z",
+      "updatedAt": "2026-11-10T08:15:38.129Z",
+      "publishedAt": "2026-11-10T08:15:38.128Z",
+      "locale": null,
+      "videoUrl": null,
+      "photo": null
+    },
+    {
+      "id": 3,
+      "documentId": "brxbfcyjvvlphfchoupcq71o",
+      "title": "Energy-Efficient & Long-Lasting",
+      "quote": "Electricals from Safonix India have transformed our workspace! Not only do they provide excellent quality products in electricals, but they are also energy-efficient. Highly recommended! The quality is far superior to other brands I've used.",
+      "name": "Swapnil Gang",
+      "company": "Vikas Light Home - Udaipur",
+      "order": 2,
+      "createdAt": "2026-11-10T08:15:38.144Z",
+      "updatedAt": "2026-11-10T08:15:38.144Z",
+      "publishedAt": "2026-11-10T08:15:38.143Z",
+      "locale": null,
+      "videoUrl": null,
+      "photo": null
+    },
+    {
+      "id": 4,
+      "documentId": "ur2bpzxjtj5tk1pzl3h2kdb2",
+      "title": "Exceptional Service and Professionalism",
+      "quote": "Safonix India delivers outstanding solutions with unmatched expertise. Their team’s dedication and attention to detail ensure top-notch results. Trust Safonix for reliable, efficient, and professional service—exceeding expectations every time.",
+      "name": "Vijay Jindal",
+      "company": "Jindal Electricals - Hindaun",
+      "order": 3,
+      "createdAt": "2026-11-10T08:15:38.155Z",
+      "updatedAt": "2026-11-10T08:15:38.155Z",
+      "publishedAt": "2026-11-10T08:15:38.155Z",
+      "locale": null,
+      "videoUrl": null,
+      "photo": null
+    },
+    {
+      "id": 5,
+      "documentId": "hvxycx6fvie3o0t3yqw63xbq",
+      "title": "Timely Delivery and Superior Quality",
+      "quote": "In our line of work, quality and timely delivery are crucial. Safonix India has consistently provided top-notch electrical products on schedule. Their attention to detail and commitment to excellence make them a trusted partner.",
+      "name": "Deepak Sharma",
+      "company": "Gaytri sales - Jaipur",
+      "order": 4,
+      "createdAt": "2026-11-10T08:15:38.165Z",
+      "updatedAt": "2026-11-10T08:15:38.165Z",
+      "publishedAt": "2026-11-10T08:15:38.164Z",
+      "locale": null,
+      "videoUrl": null,
+      "photo": null
+    },
+    {
+      "id": 6,
+      "documentId": "mtuwg0pcke4tlpb336bkog48",
+      "title": "Reliable & High-Quality Service",
+      "quote": "Safonix India delivers reliable & high-quality service you can trust! With expert solutions, premium products, and unmatched durability, we power your needs efficiently. Experience excellence with Safonix—where every connection counts.",
+      "name": "Sunil Kumar",
+      "company": "Shree Ram Hardwares & Electricals - Sikar",
+      "order": 5,
+      "createdAt": "2026-11-10T08:15:38.176Z",
+      "updatedAt": "2026-11-10T08:15:38.176Z",
+      "publishedAt": "2026-11-10T08:15:38.175Z",
+      "locale": null,
+      "videoUrl": null,
+      "photo": null
+    }
+  ],
+  "faqs": [
+    {
+      "id": 1,
+      "documentId": "xdq98eaox9ks6wqbn6qddw0w",
+      "question": "How do I register?",
+      "answer": "Registration is easy! Just download the app and follow the instructions for account creation. You'll need your email, phone number, and a unique code provided by your distributor or dealer.",
+      "order": 0,
+      "createdAt": "2026-11-10T07:41:59.481Z",
+      "updatedAt": "2026-11-12T11:06:29.652Z",
+      "publishedAt": "2026-11-12T11:06:29.617Z",
+      "locale": null,
+      "tag": "Registration",
+      "icon": "user",
+      "onContactPage": null
+    },
+    {
+      "id": 2,
+      "documentId": "cj7nyb1bcu6cs9kbslwx1uth",
+      "question": "How do I earn rewards?",
+      "answer": "Rewards are earned by scanning QR codes on product packaging, completing purchases, and meeting sales targets.",
+      "order": 1,
+      "createdAt": "2026-11-10T07:41:59.501Z",
+      "updatedAt": "2026-11-12T11:06:29.700Z",
+      "publishedAt": "2026-11-12T11:06:29.687Z",
+      "locale": null,
+      "tag": "Rewards",
+      "icon": "gift",
+      "onContactPage": null
+    },
+    {
+      "id": 3,
+      "documentId": "hhy65mxfl3e1xw33813xenh4",
+      "question": "How do I redeem my points?",
+      "answer": "Points can be redeemed through the \"Wallet\" section of the app. Simply click \"Redeem Now\" and follow the instructions.",
+      "order": 2,
+      "createdAt": "2026-11-10T07:41:59.517Z",
+      "updatedAt": "2026-11-12T11:06:29.735Z",
+      "publishedAt": "2026-11-12T11:06:29.725Z",
+      "locale": null,
+      "tag": "Redeeming points",
+      "icon": "wallet",
+      "onContactPage": null
+    },
+    {
+      "id": 4,
+      "documentId": "b34a4p20dy6jgqw22i1hpf0y",
+      "question": "Contact Us",
+      "answer": "If you can't find the answer you're looking for in our FAQs, please reach out to us at contactus@safonixindia.com.",
+      "order": 3,
+      "createdAt": "2026-11-10T09:27:27.182Z",
+      "updatedAt": "2026-11-12T11:06:29.773Z",
+      "publishedAt": "2026-11-12T11:06:29.763Z",
+      "locale": null,
+      "tag": "Support",
+      "icon": "headset",
+      "onContactPage": null
+    },
+    {
+      "id": 5,
+      "documentId": "g42obuqzpn6hhvrasji34ml3",
+      "question": "Feedback",
+      "answer": "We value your feedback and suggestions. Please let us know how we can improve the Safonix app by sending us a message at contactus@safonixindia.com.",
+      "order": 4,
+      "createdAt": "2026-11-10T09:27:27.204Z",
+      "updatedAt": "2026-11-12T11:06:29.816Z",
+      "publishedAt": "2026-11-12T11:06:29.807Z",
+      "locale": null,
+      "tag": "Feedback",
+      "icon": "chat",
+      "onContactPage": null
+    },
+    {
+      "id": 6,
+      "documentId": "bj3ea5u2zum3q3evmgoxjo1y",
+      "question": "How do I apply for a Safonix dealership or distributorship?",
+      "answer": "To become an authorized Safonix distributor or dealer, select the \"Dealership\" inquiry type in our contact form or email us directly at sales@safonixindia.com. Our business development team will send over our dealer criteria, margin structure, and initiate onboarding within 48 hours.",
+      "order": 10,
+      "createdAt": "2026-11-13T04:17:39.443Z",
+      "updatedAt": "2026-11-13T04:17:39.443Z",
+      "publishedAt": "2026-11-13T04:17:39.430Z",
+      "locale": null,
+      "tag": "Dealership",
+      "icon": "user",
+      "onContactPage": true
+    },
+    {
+      "id": 7,
+      "documentId": "xbssb968nwchodeueg9efmoj",
+      "question": "What is the standard delivery timeframe for industrial orders?",
+      "answer": "Standard catalog units are dispatched from our Vasai Industrial Unit or Jaipur warehouse within 3 to 7 business days across India. Custom-engineered machinery, tailored conveyors, and automated modules generally require 2 to 4 weeks depending on technical specifications.",
+      "order": 11,
+      "createdAt": "2026-11-13T04:17:39.495Z",
+      "updatedAt": "2026-11-13T04:17:39.495Z",
+      "publishedAt": "2026-11-13T04:17:39.492Z",
+      "locale": null,
+      "tag": "Delivery",
+      "icon": "box",
+      "onContactPage": true
+    },
+    {
+      "id": 8,
+      "documentId": "yseol2oeau04uye1t3f69b84",
+      "question": "Do you provide on-site product demonstrations?",
+      "answer": "Yes! We offer live video demonstrations with our engineering desk or in-person trials at our Jaipur testing facility. For commercial enterprise projects, our field engineers can visit your plant for site inspection and feasibility analysis.",
+      "order": 12,
+      "createdAt": "2026-11-13T04:17:39.519Z",
+      "updatedAt": "2026-11-13T04:17:39.519Z",
+      "publishedAt": "2026-11-13T04:17:39.517Z",
+      "locale": null,
+      "tag": "Demonstrations",
+      "icon": "gear",
+      "onContactPage": true
+    },
+    {
+      "id": 9,
+      "documentId": "xc7cl9lgcpnqyrzz8vgn653a",
+      "question": "What warranty and after-sales support do you provide?",
+      "answer": "All Safonix industrial systems come with an inclusive comprehensive 5-Year Warranty Guarantee covering manufacturing defects and critical core mechanisms. We maintain complete spare part inventories and a nationwide technical service team.",
+      "order": 13,
+      "createdAt": "2026-11-13T04:17:39.537Z",
+      "updatedAt": "2026-11-13T04:17:39.537Z",
+      "publishedAt": "2026-11-13T04:17:39.536Z",
+      "locale": null,
+      "tag": "Warranty",
+      "icon": "shield",
+      "onContactPage": true
+    }
+  ],
+  "legalPages": [
+    {
+      "id": 1,
+      "documentId": "cmj2q5g9f1hqdgq3jpqr43aj",
+      "title": "Privacy Policy",
+      "slug": "privacy-policy",
+      "content": "Introduction\n\nWelcome to Safonix Smart Link! (Safonix Industries). Your privacy is important to us. This Privacy Policy outlines how Safonix Smart Link collects, uses, and protects your personal information when you download or use the app. By using the app, you agree to the practices described in this policy.\n\n1. Information We Collect  \n\nPersonal Information: When you create an account on Safonix Smart Link, we may collect personal details such as your name, email address, and phone number.\nApp Usage Data: We collect information about your interactions with the app, including the features you use, the rewards you earn, and any purchases or sales you complete.\nDevice Information: We may collect details about the device you use to access the app, including your device’s unique identifier, IP address, operating system, and browser type.\n\n2. How We Use Your Information  \n\nTo Operate the App: Your personal information is used to create and manage your account, provide you with services, and enable rewards functionality.\nTo Improve User Experience: We use app usage data to understand how users interact with the app, helping us improve its functionality and design.\nTo Communicate With You: We may use your email address or phone number to send you important updates, notifications, or respond to your inquiries.\n\n3. Sharing Your Information\n\nSafonix Smart Link (Safonix Industries) does not sell or rent your personal information to third parties. However, we may share your data with trusted partners who help us operate the app, as long as they agree to keep your information confidential.\n\n4. Data Security\n\nWe are committed to ensuring your personal information is secure. We use encryption and other security measures to protect your data from unauthorized access or disclosure. However, no method of transmission over the internet is 100% secure.\n\n5. Your Rights\n\nYou have the right to access, update, or delete your personal information at any time. To request changes or deletions, please contact us at contactus@safonixindia.com.\n\n6. Changes to the App\n\nWe reserve the right to modify or update features of the app at any time. If significant changes to the way we collect or use your data occur, we will notify you through in-app notifications or email.\n\n7. Third-Party Links\n\nThe Safonix Smart Link app may contain links to third-party websites or services. We are not responsible for the privacy practices of these external sites. We encourage you to review the privacy policies of any third-party platforms you interact with.\n\n8. Data Retention\n\nWe retain your personal information for as long as necessary to provide you with our services, comply with legal obligations, or resolve disputes.\n\n9. Governing Law\n\nThis Privacy Policy is governed by the laws of India. By using the app, you agree to the jurisdiction of the courts in Jaipur (India) for any legal matters related to this Privacy Policy.\n\n10. Changes to This Policy\n\nSafonix Smart Link (Safonix Industries) reserves the right to update this Privacy Policy at any time. Continued use of the app after changes are posted constitutes your acceptance of the updated policy.\n\n11. Contact Us\n\nIf you have any questions or concerns about this Privacy Policy, feel free to contact us at contactus@safonixindia.com.\n\n Facebook\n\n Copyright © 2024 Safonix. All Rights Reserved.\n\n Website Design By Nextdynamix  Tech (OPC) Pvt. Ltd.",
+      "createdAt": "2026-11-10T07:41:59.540Z",
+      "updatedAt": "2026-11-10T07:41:59.540Z",
+      "publishedAt": "2026-11-10T07:41:59.536Z",
+      "locale": null
+    },
+    {
+      "id": 3,
+      "documentId": "ksekm43wtsws5t7f00ulk4rf",
+      "title": "Cookies Policy",
+      "slug": "cookies-policy",
+      "content": "Cookie Policy for Safonix India \n\nThis is the Cookie Policy for Safonix India, accessible from https://safonixindia.com/ \n\nWhat Are Cookies \n\nAs is common practice with almost all professional websites, this site uses cookies, which are tiny files that are downloaded to your computer, to improve your experience. This page describes what information they gather, how we use it, and why we sometimes need to store these cookies. We will also share how you can prevent these cookies from being stored; however, this may downgrade or &#8216;break' certain elements of the site's functionality. \n\nHow We Use Cookies \n\nWe use cookies for a variety of reasons detailed below. Unfortunately, in most cases, there are no industry standard options for disabling cookies without completely disabling the functionality and features they add to this site. It is recommended that you leave on all cookies if you are not sure whether you need them or not, in case they are used to provide a service you use. \n\nDisabling Cookies \n\nYou can prevent the setting of cookies by adjusting the settings on your browser (see your browser Help for how to do this). Be aware that disabling cookies will affect the functionality of this and many other websites that you visit. Disabling cookies will usually result in also disabling certain functionality and features of this site. Therefore it is recommended that you do not disable cookies. \n\nThe Cookies We Set \n\nAccount related cookies \n\nIf you create an account with us, we will use cookies for the management of the signup process and general administration. These cookies will usually be deleted when you log out; however, in some cases, they may remain afterward to remember your site preferences when logged out. \n\nLogin related cookies \n\nWe use cookies when you are logged in so we can remember this fact. This prevents you from having to log in every single time you visit a new page. These cookies are typically removed or cleared when you log out to ensure that you can only access restricted features and areas when logged in. \n\nEmail newsletters-related cookies \n\nThis site offers newsletter or email subscription services & cookies may be used to remember if you are already registered and whether to show certain notifications which might only be valid to subscribe/unsubscribed users. \n\nOrders processing related cookies \n\nThis site offers e-commerce or payment facilities &some cookies are essential to ensure that your order is remembered between pages so we can process it properly. \n\nSurveys related cookies \n\nFrom time to time, we offer user surveys and questionnaires to provide you with interesting insights, helpful tools or to understand our user base more accurately. These surveys may use cookies to remember who has already taken part in a survey or provide you with accurate results after you change pages. \n\nForms related cookies \n\nWhen you submit data through a form such as those found on contact pages or comment forms, cookies may be set to remember your user details for future correspondence. \n\nSite preferences cookies \n\nIn order to provide you with a great experience on this site, we provide the functionality to set your preferences for how this site runs when you use it. In order to remember your preferences, we need to set cookies so that this information can be called whenever you interact with a page that is affected by your preferences. \n\nThird-Party Cookies \n\nIn some special cases, we also use cookies provided by trusted third parties. Following are the section details on which third-party cookies you might encounter through this site. \n\nFrom time to time, we test new features and make subtle changes to the way the site is delivered. When we are still testing new features, these cookies may be used to ensure that you receive a consistent experience. Whereas on the site, we understand which optimizations our users appreciate the most. \n\nMore Information \n\nHopefully, that has clarified things for you & as was previously mentioned, if there is something you aren't sure you need or not, it's usually safer to leave cookies enabled in case, it does interact with one of the features you use on our site. \n\nFor more general information on cookies, please read the Cookies Policy article. \n\nHowever, if you are still looking for more information, then you can contact us through one of our preferred contact methods: \n\nEmail: contactus@safonixindia.com\n\n Facebook\n\n Copyright © 2024 Safonix. All Rights Reserved.\n\n Website Design By Nextdynamix  Tech (OPC) Pvt. Ltd.",
+      "createdAt": "2026-11-10T07:41:59.590Z",
+      "updatedAt": "2026-11-10T07:41:59.590Z",
+      "publishedAt": "2026-11-10T07:41:59.584Z",
+      "locale": null
+    },
+    {
+      "id": 2,
+      "documentId": "ajl7has5pr9dnqb6mpicxvmj",
+      "title": "Terms and conditions",
+      "slug": "terms-and-conditions",
+      "content": "### Introduction\n\nWelcome to Safonix! By downloading or using the Safonix app, you agree to be bound by the following Terms and Conditions. Please read them carefully.\n\n### 1. Use of the App\n\n- **Eligibility** : You must be at least 18 years old or have parental consent to use this app.\n- **Account Responsibility** : You are responsible for maintaining the confidentiality of your login details and all activities that occur under your account.\n- **Prohibited Uses**: You agree not to use the app for any unlawful or prohibited activities, such as exploiting rewards, tampering with QR codes, or attempting unauthorized access.\n\n### 2. Rewards System\n\n- **Earning Points** : Rewards are earned by participating in specific actions such as scanning QR codes, completing purchases, or achieving sales goals.\n- **Redeeming Points** : Points can be redeemed through the app’s wallet feature, subject to our terms and conditions of redemption.\n- **Fraud**: Any fraudulent activity will result in the immediate suspension of your account and forfeiture of all earned rewards.\n\n### 3. Intellectual Property\n\n- All content, including images, text, and software, is the property of Safonix Smart Link (Safonix Industries) or its licensors. You may not reproduce, modify, or distribute any content from the app without prior written consent.\n\n### 4. Modifications to the App\n\n- We reserve the right to update or change features of the app at any time. We will notify users of significant changes through in-app notifications.\n\n### 5. Termination of Account\n\n- Safonix Smart Link (Safonix Industries) reserves the right to suspend or terminate your account for violation of these Terms and Conditions or any illegal activity.\n\n### 6. Limitation of Liability\n\n- Safonix Smart Link (Safonix Industries) is not liable for any direct, indirect, incidental, or consequential damages that arise from the use or inability to use the app.\n\n### 7. Governing Law\n\n- These Terms and Conditions are governed by the laws of India.\n\n### 8. Changes to the Terms\n\n- Safonix Smart Link (Safonix Industries) reserves the right to modify these Terms and Conditions at any time. Continued use of the app after changes are posted constitutes your acceptance of the new terms.\n\n### 9. Contact Us\n\nIf you have any questions about these Terms, please contact us at **contactus@safonixindia.com.**",
+      "createdAt": "2026-11-10T07:41:59.563Z",
+      "updatedAt": "2026-11-10T09:08:21.268Z",
+      "publishedAt": "2026-11-10T09:08:21.258Z",
+      "locale": null
+    }
+  ]
+}

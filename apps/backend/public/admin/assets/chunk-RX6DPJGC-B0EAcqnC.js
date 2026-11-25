@@ -1,0 +1,1 @@
+import{n as e}from"./chunk-56JWEPQ5-4XjIcwxF.js";import{r as t,t as n}from"./chunk-NFEK63OE-X4GQEY9L.js";var r=e(`modules`),i=`rbac`,a=`audit`,o={queryKey:r.list(),queryFn:()=>n.admin.module.list(),staleTime:1/0},s=(e,t)=>!!e?.some(e=>e.key===t),c=e=>{let{data:n,isLoading:r}=t(o);return{isInstalled:s(n?.modules,e),isLoading:r}};export{c as a,o as i,i as n,s as r,a as t};

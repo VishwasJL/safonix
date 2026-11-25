@@ -1,0 +1,1 @@
+import{er as e}from"./index-Cy0MGGxZ.js";var t=e(`product`,`*categories,*shipping_profile,-variants`);export{t};
